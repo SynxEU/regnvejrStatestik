@@ -1,4 +1,4 @@
-# regnvejrStatestik
+# Regnvejr Statestik
 
 Programmet føre statstik over den faldende nedbør som er blevet indtastet.
 
